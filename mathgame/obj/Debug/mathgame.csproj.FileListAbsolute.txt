@@ -1,0 +1,24 @@
+C:\Users\adist\source\repos\mathgame\mathgame\bin\Debug\mathgame.exe.config
+C:\Users\adist\source\repos\mathgame\mathgame\bin\Debug\mathgame.exe
+C:\Users\adist\source\repos\mathgame\mathgame\bin\Debug\mathgame.pdb
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.csproj.AssemblyReference.cache
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.Properties.Resources.resources
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.csproj.GenerateResource.cache
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.csproj.CoreCompileInputs.cache
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.exe
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.pdb
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.המשחק.resources
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.חוקיהמשחק.resources
+C:\Users\adist\source\repos\mathgame\mathgame\obj\Debug\mathgame.מסךבקרה.resources
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\bin\Debug\mathgame.exe.config
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\bin\Debug\mathgame.exe
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\bin\Debug\mathgame.pdb
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.csproj.AssemblyReference.cache
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.Properties.Resources.resources
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.המשחק.resources
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.חוקיהמשחק.resources
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.מסךבקרה.resources
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.csproj.GenerateResource.cache
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.csproj.CoreCompileInputs.cache
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.exe
+C:\Users\adist\OneDrive\שולחן העבודה\Software engineering project\mathgame\mathgame\obj\Debug\mathgame.pdb
